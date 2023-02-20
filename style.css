@@ -1,0 +1,66 @@
+.body{
+    background-color: rgb(233, 232, 232);
+}
+.navbar{
+    background-color: white;
+    height: 45px;
+    box-shadow: 0px 0px 7px;
+}
+i{
+    color: blue;
+}
+li{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+.set{
+    font-weight: bold;
+}
+.nav_1{
+    display: flex;
+}
+.anker{
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 10px;
+}
+.banker{
+    text-decoration: none;
+    color: #fff;
+}
+.ankers{
+    text-decoration: none;
+    width: 80px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.input{
+    width: 400px;
+    padding-left: 10px;
+    background-color: #d6d4d4;
+    border: none;
+    border: #333333;
+    border-radius: 2px;
+    height: 35px;
+}
+#button{
+    border: none;
+    background-color: blue;
+    width: 400px;
+    height: 35px;
+    border-radius: 4px;
+}
+#ban{
+    text-decoration: none;
+    color: #fff;
+}
+.ankerss{
+    padding-left: 5px;
+    text-decoration: none;
+    color: #000;
+}
